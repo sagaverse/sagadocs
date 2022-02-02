@@ -2,9 +2,9 @@
 
 ## Introduction
 
-* [Gamefi](README.md)
-*
-*
+* [Gamefi](introduction/gamefi.md)
+* [An introduction to P2E](introduction/intro-p2e.md)
+* [Why Polygon?](introduction/polygon.md)
 
 ## Sagaverse
 
