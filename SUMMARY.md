@@ -8,7 +8,12 @@
 
 ## Sagaverse
 
-* [Introduction](sagaverse/page-2.md)
+* [Introduction](sagaverse/intro.md)
+* [Vision](sagaverse/vision.md)
+* [Mission](sagaverse/mission.md)
+* [Team](sagaverse/team.md)
+* [Advisors](sagaverse/advisors.md)
+* [Partners & Investors](p&i.md)
 
 ## The Saga Multiverse
 
