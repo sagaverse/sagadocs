@@ -17,7 +17,11 @@
 
 ## The Saga Multiverse
 
-* [The Realms](the-saga-multiverse/page-3.md)
+* [The Realms](the-saga-multiverse/the-realms.md)
+* [The Guardians](the-saga-multiverse/the-guardians.md)
+* [NFT Avatars](the-saga-multiverse/nft-avatars.md)
+* [Minting of NFTs](the-saga-multiverse/minting-of-nfts.md)
+* [Marketplace](the-saga-multiverse/marketplace.md)
 
 ## Aqua Saga
 
