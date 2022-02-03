@@ -13,7 +13,7 @@
 * [Mission](sagaverse/mission.md)
 * [Team](sagaverse/team.md)
 * [Advisors](sagaverse/advisors.md)
-* [Partners & Investors](p&i.md)
+* [Partners & Investors](sagaverse/partners-and-investors.md)
 
 ## The Saga Multiverse
 

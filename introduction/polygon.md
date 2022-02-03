@@ -1,1 +1,3 @@
-# why polygon
+# Why Polygon?
+
+> **Yet to document.**

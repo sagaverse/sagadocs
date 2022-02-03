@@ -1,3 +1,3 @@
-# Advisors
+# Partners & Investors
 
 > <mark style="color:yellow;">**Yet to document.**</mark>
