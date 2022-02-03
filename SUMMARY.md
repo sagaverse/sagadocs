@@ -26,8 +26,17 @@
 ## Aqua Saga
 
 * [Summery](aqua-saga/summery.md)
-* [Page 9](aqua-saga/page-9/README.md)
-  * [Page 10](aqua-saga/page-9/page-10.md)
+* [Game Design and User Interface](aqua-saga/game-design-and-user-interface.md)
+* [Characters and Requirements](aqua-saga/characters-and-requirements.md)
+* [Game Areas](aqua-saga/game-areas.md)
+* [Game Flow](aqua-saga/game-flow.md)
+* [Fishing](aqua-saga/fishing/README.md)
+  * [Types of Fish](aqua-saga/fishing/types-of-fish.md)
+  * [How to fish](aqua-saga/fishing/how-to-fish.md)
+  * [Randomisation in fishing](aqua-saga/fishing/randomisation-in-fishing.md)
+  * [Revenue from fishing](aqua-saga/fishing/revenue-from-fishing.md)
+* [Battle](aqua-saga/battle.md)
+* [Breeding](aqua-saga/breading.md)
 
 ## Tokenomics
 
