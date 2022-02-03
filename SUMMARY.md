@@ -36,7 +36,7 @@
   * [Randomisation in fishing](aqua-saga/fishing/randomisation-in-fishing.md)
   * [Revenue from fishing](aqua-saga/fishing/revenue-from-fishing.md)
 * [Battle](aqua-saga/battle.md)
-* [Breeding](aqua-saga/breading.md)
+* [Breeding](aqua-saga/breeding.md)
 
 ## Tokenomics
 
