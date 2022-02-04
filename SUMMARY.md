@@ -1,10 +1,10 @@
 # Table of contents
 
-## Introduction
+## An introduction to P2E
 
-* [Gamefi](README.md)
-* [An introduction to P2E](introduction/intro-p2e.md)
-* [Why Polygon?](introduction/polygon.md)
+* [An Introduction to P2E](README.md)
+* [Gamefi](an-introduction-to-p2e/readme.md)
+* [Why Polygon?](an-introduction-to-p2e/polygon.md)
 
 ## Sagaverse
 
